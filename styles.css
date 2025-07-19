@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all {
+    padding: 100px;
+    width: 100vh;
+  }
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+  #time, #date {
+    font-size: 1.5rem;
+  }
