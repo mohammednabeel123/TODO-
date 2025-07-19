@@ -1,7 +1,3 @@
-Sure! Here’s a friendly, clear README description for your todo project:
-
----
-
 # Simple Todo List Web App 🚀
 
 This is a basic but fully functional Todo List application built with HTML, CSS (Bootstrap), and JavaScript.
